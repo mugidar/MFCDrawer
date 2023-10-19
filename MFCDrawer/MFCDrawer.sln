@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCDrawer", "MFCDrawer\MFCDrawer.vcxproj", "{E2BBEB93-E2A9-4046-B30A-9D83CC9BCCA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2BBEB93-E2A9-4046-B30A-9D83CC9BCCA0}.Debug|x64.ActiveCfg = Debug|x64
+		{E2BBEB93-E2A9-4046-B30A-9D83CC9BCCA0}.Debug|x64.Build.0 = Debug|x64
+		{E2BBEB93-E2A9-4046-B30A-9D83CC9BCCA0}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2BBEB93-E2A9-4046-B30A-9D83CC9BCCA0}.Debug|x86.Build.0 = Debug|Win32
+		{E2BBEB93-E2A9-4046-B30A-9D83CC9BCCA0}.Release|x64.ActiveCfg = Release|x64
+		{E2BBEB93-E2A9-4046-B30A-9D83CC9BCCA0}.Release|x64.Build.0 = Release|x64
+		{E2BBEB93-E2A9-4046-B30A-9D83CC9BCCA0}.Release|x86.ActiveCfg = Release|Win32
+		{E2BBEB93-E2A9-4046-B30A-9D83CC9BCCA0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ED7F384-373F-43D2-8BAA-39FA24D6361B}
+	EndGlobalSection
+EndGlobal
